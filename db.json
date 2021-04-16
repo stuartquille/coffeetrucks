@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Name": "MiniMocha",
+    "Tag": "Decent coffee",
+    "Description": "Mini mocha is located down at the gables and uses sgfredo coffee",
+    "Lat": 53.17458,
+    "Long": -6.792617,
+    "Visible": 1,
+    "DogFriendly": 1,
+    "VeganOption": 1,
+    "CardAccepted": 1,
+    "ScenicWalk": 1,
+    "HotFood": 1,
+    "GlutenFreeOption": 1,
+    "Type": "Truck",
+    "Email": "stuquilletyb@gmail.com",
+    "OwnerName": "Stuart",
+    "Phone": "+3533851471990",
+    "County": "NULL"
+  },
+  {
+    "ID": 2,
+    "Name": "shop",
+    "Tag": "Decent coffee",
+    "Description": "Mini mocha is located down at the gables and uses sgfredo coffee",
+    "Lat": 50.17458,
+    "Long": -6.981647,
+    "Visible": 1,
+    "DogFriendly": 1,
+    "VeganOption": 1,
+    "CardAccepted": 1,
+    "ScenicWalk": 1,
+    "HotFood": 1,
+    "GlutenFreeOption": 1,
+    "Type": "Truck",
+    "Email": "stuquilletyb@gmail.com",
+    "OwnerName": "Stuart",
+    "Phone": "+3533851471990",
+    "County": "Kildare"
+  }
+]
